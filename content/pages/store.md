@@ -16,7 +16,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Um novo interior no verão da sua casa.
-    subtitle: from $149.99
+    subtitle: 'Por apenas: $149.99'
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
