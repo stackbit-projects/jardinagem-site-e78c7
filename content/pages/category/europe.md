@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: plantas da europa
 layout: category
 order: 3
 seo:
