@@ -39,7 +39,7 @@ sections:
     testimonials:
       - author:
           name: John Dope
-          location: 'Colorado, USA'
+          location: 'blumenau, sc'
         text: >-
           Como são lindas essas plantas. Amei muito e vou comprar mais com
           certeza.
