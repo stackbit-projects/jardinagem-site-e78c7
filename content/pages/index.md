@@ -45,7 +45,7 @@ sections:
           certeza.
       - author:
           name: mateus varela
-          location: 'VA, USA'
+          location: 'blumenau, sc'
         text: ótimo atendimento e um produto de qualidade incrível!
   - type: promotion_section
     section_id: promotion_section
