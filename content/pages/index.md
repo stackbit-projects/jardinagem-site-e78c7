@@ -50,7 +50,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: De novos ares aos interiores.
-    subtitle: from $149.99
+    subtitle: 'Por apenas: R$149.99'
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
