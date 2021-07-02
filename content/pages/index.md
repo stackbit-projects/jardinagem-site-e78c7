@@ -38,7 +38,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: bruna aparecida
           location: 'blumenau, sc'
         text: >-
           Como são lindas essas plantas. Amei muito e vou comprar mais com
