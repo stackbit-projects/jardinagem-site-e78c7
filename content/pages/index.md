@@ -44,7 +44,7 @@ sections:
           Como são lindas essas plantas. Amei muito e vou comprar mais com
           certeza.
       - author:
-          name: Major Payne
+          name: mateus varela
           location: 'VA, USA'
         text: ótimo atendimento e um produto de qualidade incrível!
   - type: promotion_section
