@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: plantas grandes
 layout: category
 order: 1
 seo:
