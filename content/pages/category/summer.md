@@ -1,5 +1,5 @@
 ---
-title: Summer plants
+title: plantas de verão
 layout: category
 order: 4
 seo:
