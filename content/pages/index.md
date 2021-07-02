@@ -35,7 +35,7 @@ sections:
       - content/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Comentários
     testimonials:
       - author:
           name: bruna aparecida
