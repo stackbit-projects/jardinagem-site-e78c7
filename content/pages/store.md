@@ -15,7 +15,7 @@ sections:
       - content/pages/products/plant7.md
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Um novo interior no verão da sua casa.
     subtitle: from $149.99
     image: images/promo.jpg
     background_image: /images/leaf.svg
